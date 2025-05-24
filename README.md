@@ -2,7 +2,7 @@
 
 ## Machine Learning-Based Vulnerability Detection in Rust Code Using LLVM IR and Transformer Model
 
-This repository implements **Rust-IR-BERT**, a machine-learning pipeline for automated vulnerability detection in Rust code. It provides two end-to-end workflows:
+This repository implements **Rust-IR-BERT**, a machine-learning pipeline for automated vulnerability detection in Rust code. It provides the following two end-to-end workflows:
 
 - **LLVM IR Pipeline**  
   1. Compile Rust source to LLVM IR  
